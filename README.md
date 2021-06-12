@@ -231,3 +231,39 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
 # live URL :
 
 https://sara-zwairi-portfolio.netlify.app/
+
+# lab 5:
+
+Number and name of feature: ________________________________
+
+1. Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed.
+
+2. Profile Page: As a user, I want to know all about the developer's professional history and values along with their personality.
+
+3. Nav, Header and Footer: As a user, I want a clean, easy to use UX so I can easily find the information that I want and know what I am looking at.
+
+4. Portfolio Page: As a user, I want to see previous projects that the developer has worked on, so that I can evaluate their skills.
+
+5. Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev.
+
+Estimate of time needed to complete: _____
+
+each one need 20min
+
+Start time: _____Finish time: _____
+
+1. 1:00-1:30
+
+2. 1:30-2:00
+
+3. 2:00-2:30
+
+4. 2:30-3:00
+
+5. 3:30-4:00
+
+
+
+Actual time needed to complete: _____
+
+each one needed 30min
